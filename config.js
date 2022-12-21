@@ -3,23 +3,23 @@
 // JANGAN DIHAPUS KALAU MAU DITAMBAHIN
 
 // NUMBER
-global.owner = ['62895327934887'] 
+global.owner = ['6282160795453'] 
 global.mods = [] 
 global.prems = [] 
-global.kontak = ['62895327934887']
+global.kontak = ['6282160795453']
 
 //  INFO BOT 
-global.naown = 'KRIZYN OFC'
-global.noown = '62895327934887'
-global.namebot = 'FORYN FOUR'
-global.nobot = '6289502319715'
+global.naown = 'Imam Habib Modz'
+global.noown = '6282160795453'
+global.namebot = 'Kiranxy BOT'
+global.nobot = '6282182533461'
 
 //  URL SOSMED
 global.instagram = 'https://instagram.com/itskri99'
-global.github = 'https://github.com/krizynofc'
+global.github = 'https://github.com/Mr-HabibZ1'
 global.gc = 'https://chat.whatsapp.com/HVyRaNWp18NKMAIHv8NjLP'
-global.web = 'https://lynk.id/kri.com' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
-global.saweria = 'https://saweria.co/Kricom'
+global.web = 'https://youtube.com/@HabibBotz' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
+global.saweria = '-'
 
 // PAYMANT 
 global.dana = '081360482998'
